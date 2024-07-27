@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="porsche_marker" size="6.000000 3.371739" />
+    <ImageTarget name="cyberPunk_car_marker" size="6.000000 3.375000" />
+    <ImageTarget name="1975_porsche_911_turbo" size="6.000000 3.999000" />
+  </Tracking>
+</QCARConfig>
